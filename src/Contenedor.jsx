@@ -6,7 +6,7 @@ const personajes = [
         "nombre": "Maia Roberts",
         "edad" : 28,
         "genero": "F",
-        "imagen": "https://static.wikia.nocookie.net/shadowhunters/images/a/aa/Maia_Roberts_%28TV%29.jpg/revision/latest?cb=20170210155847&path-prefix=es"
+        "imagen": "https://64.media.tumblr.com/20a7d1e32d212dedb318becf88a7a64c/tumblr_p71nwc4SNH1xpejh9o2_400.jpg"
     },
     {
         "nombre": "Clary Fray",
@@ -18,7 +18,7 @@ const personajes = [
         "nombre": "Jace Wayland",
         "edad" : 22,
         "genero": "M",
-        "imagen": "https://static.wikia.nocookie.net/shadowhunters/images/4/4a/Jace_Wayland_%28TV%29.jpg/revision/latest?cb=20170610212012&path-prefix=es"
+        "imagen": "https://images6.fanpop.com/image/photos/39200000/Jace-Wayland-shadowhunters-tv-show-39227489-667-1000.jpg"
     },
     {
         "nombre": "Isabelle Lightwood",
@@ -30,7 +30,7 @@ const personajes = [
         "nombre": "Valentine Morgenstern",
         "edad" : 50,
         "genero": "M",
-        "imagen": "https://static.wikia.nocookie.net/shadowhunters/images/9/9d/Valentine_Morgenstern_SH_%28TV%29.jpg/revision/latest?cb=20170210195642&path-prefix=es"
+        "imagen": "https://leoestudio.files.wordpress.com/2015/05/cds-serie-valentine-bien.jpg"
     },
     {
         "nombre": "Alec Lightwood",
